@@ -1,4 +1,3 @@
 # WH by bodyakin
-1. pip install -r requirements.txt )
-2. Запустить Cs Go, запустить WH.py (либо же запустить файл WH.exe в папке exe (скомпилированный python код) и не закрывать окно.
-3. Играть.
+1. Run `pip install -r requirements.txt`
+2. Run CS:GO, and then run the script with the command: `python WH.py`
